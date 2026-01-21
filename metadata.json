@@ -1,0 +1,9 @@
+{
+  "name": "Copy of Chronos Gaia",
+  "description": "An intelligent plant growth tracker. Captures time-lapse snapshots, analyzes plant health using AI, and provides real-time botanical advice. Monitor germination, flowering, and detect pests or diseases early.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
